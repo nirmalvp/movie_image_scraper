@@ -1,0 +1,1 @@
+Start project by running the "scrapy crawl whykol" command from base directory
